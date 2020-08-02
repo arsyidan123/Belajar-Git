@@ -1,0 +1,2 @@
+rootProject.name = "Hore jadi"
+
